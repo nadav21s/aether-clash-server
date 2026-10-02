@@ -1,12 +1,12 @@
 {
     "version":  96,
     "apk_url":  "https://github.com/nadav21s/aether-clash-server/raw/main/AetherClash-v96.apk",
-    "released":  "2026-10-02T14:05:49.7704844Z",
+    "released":  "2026-10-02T14:22:18.0744021Z",
     "patch":  {
-                  "build":  111,
+                  "build":  112,
                   "base":  96,
-                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v111.zip",
-                  "sha256":  "446798324a36a9b5cb04767457a8889a65e01e0b09b490c75fa8b54443cf4a00",
-                  "size":  10418878
+                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v112.zip",
+                  "sha256":  "e93f9f0f48df4c15248d589aaeda6217182b21bb288e0306344517e09001f634",
+                  "size":  10423941
               }
 }
