@@ -31,6 +31,14 @@
    "remove_skin": "vessa:2",
    "id": "08069f4147ac",
    "t": 1790936077
+  },
+  {
+   "timed": {
+    "key": "skin:shadow:2",
+    "secs": 3600
+   },
+   "id": "8ec38a955d11",
+   "t": 1790944562
   }
  ]
 }
