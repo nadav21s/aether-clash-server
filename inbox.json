@@ -107,5 +107,15 @@
    "id": "e6ee402620dc",
    "t": 1790949805
   }
+ ],
+ "f14cda73580be7f9cb2af591eb149bda5e668f326f5e48a6f84a7d53b1b7f9b4": [
+  {
+   "timed": {
+    "key": "hero:shadow",
+    "secs": 21600
+   },
+   "id": "a181dfd16061",
+   "t": 1791052647
+  }
  ]
 }
