@@ -1,0 +1,52 @@
+{
+ "heroes": {
+  "shadow": {
+   "coins": 1500,
+   "gems": 40,
+   "sale": true
+  },
+  "zoren": {
+   "coins": 2000,
+   "gems": 50,
+   "sale": true
+  },
+  "dragon": {
+   "coins": 23000,
+   "gems": 300,
+   "sale": true
+  },
+  "althea": {
+   "coins": 3500,
+   "gems": 250,
+   "sale": true
+  },
+  "caldris": {
+   "coins": 9000,
+   "gems": 140,
+   "sale": true
+  }
+ },
+ "evos": {
+  "vessa": {
+   "coins": 25000,
+   "gems": 400
+  },
+  "brakka": {
+   "coins": 30000,
+   "gems": 500
+  },
+  "dragon": {
+   "coins": 40000,
+   "gems": 650
+  },
+  "shadow": {
+   "coins": 40000,
+   "gems": 650
+  },
+  "zoren": {
+   "coins": 40000,
+   "gems": 650
+  }
+ },
+ "updated": "2026-10-06T22:41:24"
+}
