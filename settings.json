@@ -1,0 +1,11 @@
+{
+ "bot_demon_enabled": 1,
+ "bot_demon_level": 20,
+ "bot_demon_control": 0.0,
+ "bot_demon_heal": 0.0,
+ "bot_demon_lifesteal": 0.15,
+ "player_demon_heal": 0.3,
+ "player_demon_lifesteal": 0.15,
+ "duel_meter_mult": 0.6,
+ "updated": "2026-10-07T05:59:10"
+}
