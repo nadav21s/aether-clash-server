@@ -21,9 +21,9 @@
    "sale": true
   },
   "caldris": {
-   "coins": 999999,
-   "gems": 9999,
-   "sale": false
+   "coins": 45000,
+   "gems": 400,
+   "sale": true
   }
  },
  "evos": {
