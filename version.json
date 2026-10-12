@@ -1,7 +1,8 @@
 {
-    "version":  204,
-    "apk_server":  true,
-    "apk_file":  "AetherClash-v204.apk",
-    "apk_size":  106595371,
-    "released":  "2026-10-12T11:20:18.3632309Z"
+    "version": 204,
+    "apk_url": "https://fair-gratis-stationery-represent.trycloudflare.com/apk",
+    "apk_server": true,
+    "apk_file": "AetherClash-v204.apk",
+    "apk_size": 106595371,
+    "released": "2026-10-12T11:20:18.3632309Z"
 }
