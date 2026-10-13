@@ -1,8 +1,8 @@
 {
-    "version": 204,
-    "apk_url": "https://treated-subdivision-eagle-van.trycloudflare.com/apk",
-    "apk_server": true,
-    "apk_file": "AetherClash-v204.apk",
-    "apk_size": 106595371,
-    "released": "2026-10-12T11:20:18.3632309Z"
+    "version":  205,
+    "apk_server":  true,
+    "apk_file":  "AetherClash-v205.apk",
+    "apk_size":  121470534,
+    "released":  "2026-10-13T20:41:49.2940695Z",
+    "apk_url":  "https://treated-subdivision-eagle-van.trycloudflare.com/apk"
 }
