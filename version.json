@@ -1,14 +1,14 @@
 {
-    "version":  205,
-    "apk_server":  true,
-    "apk_file":  "AetherClash-v205.apk",
-    "released":  "2026-10-14T14:04:45.9497275Z",
-    "patch":  {
-                  "build":  208,
-                  "base":  205,
-                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v208.zip",
-                  "sha256":  "a234af1053917bc60e2e9aed97ad804091e7d6be7a3e589a15950a09a3f9958b",
-                  "size":  286052
-              },
-    "apk_url":  "https://treated-subdivision-eagle-van.trycloudflare.com/apk"
+    "version": 205,
+    "apk_server": true,
+    "apk_file": "AetherClash-v205.apk",
+    "released": "2026-10-14T14:04:45.9497275Z",
+    "patch": {
+        "build": 208,
+        "base": 205,
+        "url": "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v208.zip",
+        "sha256": "a234af1053917bc60e2e9aed97ad804091e7d6be7a3e589a15950a09a3f9958b",
+        "size": 286052
+    },
+    "apk_url": "https://fat-liberal-proceeds-strips.trycloudflare.com/apk"
 }
