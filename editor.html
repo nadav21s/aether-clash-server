@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="he" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>עורך המפות - הורדה</title>
+<style>
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#10131c;color:#eef;font-family:Segoe UI,Arial,sans-serif;text-align:center}
+.card{background:#1a1f2e;border:1px solid #ffffff22;border-radius:16px;padding:36px 44px;max-width:460px}
+h1{margin:0 0 6px;font-size:26px}p{color:#aab;line-height:1.6}
+a.btn{display:inline-block;margin-top:14px;padding:16px 34px;background:#2e66d9;color:#fff;border-radius:12px;font-size:20px;text-decoration:none}
+a.btn.off{background:#444;pointer-events:none}small{display:block;margin-top:18px;color:#889}
+</style></head><body><div class="card">
+<h1>עורך המפות</h1>
+<p>לחץ על הכפתור כדי להוריד את העורך (כ-211MB).<br>אחרי ההורדה: פתח את הקובץ, ולחץ פעמיים על <b>Open Map Editor.bat</b>.</p>
+<a id="go" class="btn off" href="#">מחפש את השרת...</a>
+<small id="msg"></small>
+</div>
+<script>
+fetch("https://raw.githubusercontent.com/nadav21s/aether-clash-server/main/admin.json?t="+Date.now(),{cache:"no-store"})
+ .then(r=>r.json()).then(d=>{
+   var a=document.getElementById("go");
+   a.href=d.url.replace(/\/$/,"")+"/editor-pack";a.textContent="הורדת עורך המפות";a.className="btn";
+ }).catch(function(){
+   document.getElementById("msg").textContent="לא הצלחתי למצוא את השרת. ודא שהמחשב הראשי דולק ונסה שוב בעוד דקה.";
+   document.getElementById("go").textContent="השרת לא זמין";
+ });
+</script></body></html>
