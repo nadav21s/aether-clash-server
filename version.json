@@ -2,7 +2,13 @@
     "version":  205,
     "apk_server":  true,
     "apk_file":  "AetherClash-v205.apk",
-    "apk_size":  121470534,
-    "released":  "2026-10-13T20:41:49.2940695Z",
+    "released":  "2026-10-14T03:59:47.5014830Z",
+    "patch":  {
+                  "build":  206,
+                  "base":  205,
+                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v206.zip",
+                  "sha256":  "59085c67b32b5b864605de10fd344467d1af1f9af6a95e5ca1c0891323f7057a",
+                  "size":  219554
+              },
     "apk_url":  "https://treated-subdivision-eagle-van.trycloudflare.com/apk"
 }
