@@ -1,14 +1,14 @@
 {
-    "version":  205,
-    "apk_server":  true,
-    "apk_file":  "AetherClash-v205.apk",
-    "released":  "2026-10-14T20:46:01.5314376Z",
-    "patch":  {
-                  "build":  209,
-                  "base":  205,
-                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v209.zip",
-                  "sha256":  "caf6ebc4dc4bb6dc6a3268d161dad6f533047a5e382f27f2600eb9ebaf9ac22a",
-                  "size":  290124
-              },
-    "apk_url":  "https://enable-viewpicture-fare-insider.trycloudflare.com/apk"
+    "version": 205,
+    "apk_server": true,
+    "apk_file": "AetherClash-v205.apk",
+    "released": "2026-10-14T20:46:01.5314376Z",
+    "patch": {
+        "build": 209,
+        "base": 205,
+        "url": "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v209.zip",
+        "sha256": "caf6ebc4dc4bb6dc6a3268d161dad6f533047a5e382f27f2600eb9ebaf9ac22a",
+        "size": 290124
+    },
+    "apk_url": "https://mil-phenomenon-workplace-very.trycloudflare.com/apk"
 }
