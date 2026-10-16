@@ -1,14 +1,14 @@
 {
-    "version":  205,
-    "apk_server":  true,
-    "apk_file":  "AetherClash-v205.apk",
-    "released":  "2026-10-16T14:56:31.4832211Z",
-    "patch":  {
-                  "build":  214,
-                  "base":  205,
-                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v214.zip",
-                  "sha256":  "06ee686fcaba21d40dc2e1784f9931fd250379ded13314dbc28f249ae159810a",
-                  "size":  29280308
-              },
-    "apk_url":  "https://phone-abs-tongue-sold.trycloudflare.com/apk"
+    "version": 205,
+    "apk_server": true,
+    "apk_file": "AetherClash-v205.apk",
+    "released": "2026-10-16T14:56:31.4832211Z",
+    "patch": {
+        "build": 214,
+        "base": 205,
+        "url": "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v214.zip",
+        "sha256": "06ee686fcaba21d40dc2e1784f9931fd250379ded13314dbc28f249ae159810a",
+        "size": 29280308
+    },
+    "apk_url": "https://surprised-minimal-applicant-basketball.trycloudflare.com/apk"
 }
