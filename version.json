@@ -2,13 +2,13 @@
     "version":  205,
     "apk_server":  true,
     "apk_file":  "AetherClash-v205.apk",
-    "released":  "2026-10-17T17:01:33.6294054Z",
+    "released":  "2026-10-17T17:11:17.0033102Z",
     "patch":  {
-                  "build":  217,
+                  "build":  218,
                   "base":  205,
-                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v217.zip",
-                  "sha256":  "b89cb961c8e78d914beac91003f3f9b914764b994d131cd8ac97e39034a5e075",
-                  "size":  29354061
+                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v218.zip",
+                  "sha256":  "406de79eb83bfcf10c122ab80c301c15b023050464594d4924b06d896c06ec2b",
+                  "size":  33446813
               },
     "apk_url":  "https://surprised-minimal-applicant-basketball.trycloudflare.com/apk"
 }
