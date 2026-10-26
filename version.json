@@ -1,14 +1,14 @@
 {
-    "version": 205,
-    "apk_server": true,
-    "apk_file": "AetherClash-v205.apk",
-    "released": "2026-10-17T17:11:17.0033102Z",
-    "patch": {
-        "build": 218,
-        "base": 205,
-        "url": "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v218.zip",
-        "sha256": "406de79eb83bfcf10c122ab80c301c15b023050464594d4924b06d896c06ec2b",
-        "size": 33446813
-    },
-    "apk_url": "https://prostate-elderly-ata-thompson.trycloudflare.com/apk"
+    "version":  205,
+    "apk_server":  true,
+    "apk_file":  "AetherClash-v205.apk",
+    "released":  "2026-10-26T07:14:21.0838442Z",
+    "patch":  {
+                  "build":  219,
+                  "base":  205,
+                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v219.zip",
+                  "sha256":  "3f8719538ff8933b57a07f47f0255125d2cb19ea8cb61ca9d5b70cdcedc10a22",
+                  "size":  64169814
+              },
+    "apk_url":  "https://prostate-elderly-ata-thompson.trycloudflare.com/apk"
 }
