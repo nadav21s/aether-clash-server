@@ -1,14 +1,8 @@
 {
-    "version":  205,
+    "version":  220,
     "apk_server":  true,
-    "apk_file":  "AetherClash-v205.apk",
-    "released":  "2026-10-26T07:14:21.0838442Z",
-    "patch":  {
-                  "build":  219,
-                  "base":  205,
-                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v219.zip",
-                  "sha256":  "3f8719538ff8933b57a07f47f0255125d2cb19ea8cb61ca9d5b70cdcedc10a22",
-                  "size":  64169814
-              },
+    "apk_file":  "AetherClash-v220.apk",
+    "apk_size":  217276796,
+    "released":  "2026-10-26T19:11:02.9281028Z",
     "apk_url":  "https://prostate-elderly-ata-thompson.trycloudflare.com/apk"
 }
