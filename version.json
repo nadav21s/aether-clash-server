@@ -1,8 +1,14 @@
 {
-    "version": 220,
-    "apk_server": true,
-    "apk_file": "AetherClash-v220.apk",
-    "apk_size": 217276796,
-    "released": "2026-10-26T19:11:02.9281028Z",
-    "apk_url": "https://comfortable-technique-assign-virgin.trycloudflare.com/apk"
+    "version":  220,
+    "apk_server":  true,
+    "apk_file":  "AetherClash-v220.apk",
+    "released":  "2026-10-28T15:58:47.8050858Z",
+    "patch":  {
+                  "build":  221,
+                  "base":  220,
+                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v221.zip",
+                  "sha256":  "9da30064f3d52f7021b7fd72cbd56c6876ad84445bf7d2843a72ce83c7ce2af1",
+                  "size":  95818475
+              },
+    "apk_url":  "https://comfortable-technique-assign-virgin.trycloudflare.com/apk"
 }
