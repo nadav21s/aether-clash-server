@@ -1,35 +1,6 @@
 {
  "fc436b57966b2697c832a49dfd3a3e1184d1c858c0072188290c06ceee592aed": [
   {
-   "timed": {
-    "key": "hero:caldris",
-    "secs": 3600
-   },
-   "id": "73eb1543c4d3",
-   "t": 1791316618
-  },
-  {
-   "timed": {
-    "key": "hero:caldris",
-    "secs": 3600
-   },
-   "id": "034ee530dc70",
-   "t": 1791339872
-  },
-  {
-   "timed": {
-    "key": "hero:caldris",
-    "secs": 3600
-   },
-   "id": "d7784f37bde8",
-   "t": 1791344531
-  },
-  {
-   "saga_reset_act": 2,
-   "id": "85b727be194e",
-   "t": 1791350162
-  },
-  {
    "saga_reset_act": 2,
    "id": "cee4b24ac513",
    "t": 1791456996
@@ -58,6 +29,11 @@
    "skin": "dragon:2",
    "id": "1efc647497ec",
    "t": 1793045251
+  },
+  {
+   "saga_reset": true,
+   "id": "e80f4a419a6b",
+   "t": 1793203248
   }
  ],
  "13de74464865a74fc4ba69ab52cd52a6548fcb7ab8ed9c9bffb9151632530b28": [
