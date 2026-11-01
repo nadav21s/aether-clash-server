@@ -2,7 +2,13 @@
     "version":  225,
     "apk_server":  true,
     "apk_file":  "AetherClash-v225.apk",
-    "apk_size":  282684496,
-    "released":  "2026-11-01T15:25:58.7110139Z",
+    "released":  "2026-11-01T16:15:04.1505378Z",
+    "patch":  {
+                  "build":  226,
+                  "base":  225,
+                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v226.zip",
+                  "sha256":  "a9fed230e9b41429a9b003fba46f4d895c78337ab4cad0b1cca96f7b295d5247",
+                  "size":  991664
+              },
     "apk_url":  "https://comfortable-technique-assign-virgin.trycloudflare.com/apk"
 }
