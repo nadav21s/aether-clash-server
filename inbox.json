@@ -1,16 +1,6 @@
 {
  "fc436b57966b2697c832a49dfd3a3e1184d1c858c0072188290c06ceee592aed": [
   {
-   "saga_reset_act": 2,
-   "id": "cee4b24ac513",
-   "t": 1791456996
-  },
-  {
-   "orion_skill": "all",
-   "id": "debc3eec0b60",
-   "t": 1791686975
-  },
-  {
    "hero": "nadav",
    "id": "fc48d042c7f5",
    "t": 1792099038
@@ -34,6 +24,11 @@
    "saga_reset": true,
    "id": "e80f4a419a6b",
    "t": 1793203248
+  },
+  {
+   "orion_skill": "flare:0",
+   "id": "027590cfed3d",
+   "t": 1793549522
   }
  ],
  "13de74464865a74fc4ba69ab52cd52a6548fcb7ab8ed9c9bffb9151632530b28": [
