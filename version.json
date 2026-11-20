@@ -1,14 +1,14 @@
 {
-    "version":  273,
-    "apk_server":  true,
-    "apk_file":  "AetherClash-v273.apk",
-    "released":  "2026-11-09T19:28:59.2478878Z",
-    "patch":  {
-                  "build":  276,
-                  "base":  273,
-                  "url":  "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v276.zip",
-                  "sha256":  "fca6dac9a9dcd2f28c07bf8d8e118c447ec12d8a61978acf2779aa148ba066a9",
-                  "size":  11293740
-              },
-    "apk_url":  "https://comfortable-technique-assign-virgin.trycloudflare.com/apk"
+    "version": 273,
+    "apk_server": true,
+    "apk_file": "AetherClash-v273.apk",
+    "released": "2026-11-09T19:28:59.2478878Z",
+    "patch": {
+        "build": 276,
+        "base": 273,
+        "url": "https://github.com/nadav21s/aether-clash-server/raw/main/patch-v276.zip",
+        "sha256": "fca6dac9a9dcd2f28c07bf8d8e118c447ec12d8a61978acf2779aa148ba066a9",
+        "size": 11293740
+    },
+    "apk_url": "https://stick-funeral-therapy-add.trycloudflare.com/apk"
 }
